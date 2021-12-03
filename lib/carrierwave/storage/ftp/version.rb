@@ -1,7 +1,7 @@
 module Carrierwave
   module Storage
     class FTP
-      VERSION = '0.4.1'.freeze
+      VERSION = '1.0.0'.freeze
     end
   end
 end
